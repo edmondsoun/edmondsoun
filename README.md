@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to my page! 🌞
+
+- I am a software engineer and creative technologist living and working in lovely San Francisco, California.
 
 <!--
 **edmondsoun/edmondsoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
