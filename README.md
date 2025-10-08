@@ -1,7 +1,6 @@
 ## Welcome to my page! 🤖
 
 - 🧑‍💻 I am a software engineer and creative technologist living and working in lovely San Francisco, California.
-- ✏️ I'm currently building a timeline and journaling application in Next.js. Want to collaborate? Let's chat!
 - 📫 How to reach me: edmond.soun@gmail.com
 - ⚡ Fun fact: I perform around San Francisco and practice circus arts, specifically aerial silks. Find me twirling at an event near you!
 
